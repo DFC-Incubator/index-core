@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>index-core</artifactId>
+	<parent>
+		<groupId>org.irods</groupId>
+		<artifactId>jargon-pom</artifactId>
+		<version>4.2.0.1-SNAPSHOT</version>
+	</parent>
+	<packaging>pom</packaging>
+	<name>DFC Indexing Framework</name>
+	<description>Indexing Framework and supporting libraries</description>
+	</organization>
+	<developers>
+		<developer>
+			<id>michal-conway</id>
+			<name>Mike Conway</name>
+			<email>michael_conway@unc.edu</email>
+			<url>http://www.renci.org</url>
+			<organization>RENCI</organization>
+			<organizationUrl>http://www.renci.org</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+		</developer>
+	</developers>
+	<dependencyManagement>
+		<dependencies>
+		</dependencies>
+	</dependencyManagement>
+	<modules>
+	</modules>
+</project>
